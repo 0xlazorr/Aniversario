@@ -1,0 +1,51 @@
+Aniversario &mdash; Our Journey Together.
+
+This is a beautiful, interactive, and personalized webpage created to celebrate my anniversary with my girlfriend. It's designed to be a digital love letter, filled with shared memories, fun interactions, and heartfelt messages.
+
+
+##Features
+
+This webpage is packed with special features:
+
+Elegant Design: A soft, romantic theme using custom fonts and a pink color palette.
+
+Interactive Header: A "secret heart" that reveals a special message when clicked.
+
+Countdown Timer: A live countdown to your next anniversary (e.g., Nov 26, 2025).
+
+Multimedia Sections:
+
+A favorite video.
+
+A special audio message.
+
+A cherished photo.
+
+Another cherished photo.
+
+Interactive Calendar: A visual calendar that highlights our special date.
+
+Personalized Quiz: A fun 5-question quiz.
+
+Limited Attempts: Three tries to get all the answers right.
+
+Custom Feedback: A beautifully styled, organized pop-up shows specific, playful feedback for each incorrect answer.
+
+Success & Fail Modals: Special pop-up messages for passing the quiz or for failing after three attempts.
+
+Scrolling Message: A dedicated, scrollable section perfect for a long, heartfelt letter.
+
+Google Drive Gallery: A button that links to a shared collection of memories, although it requires my approval for access.
+
+Secret Adventure Photos: Clicking on the word "adventure" in the intro reveals a collage of goofy photos.
+
+Days Together Counter: A footer link that calculates and displays how many days you've been together.
+
+
+##Technologies Used
+
+HTML5: For the basic structure of the page.
+
+Tailwind CSS: For all styling and layout.
+
+JavaScript: For all interactivity, including modals, the countdown, and the quiz logic.
